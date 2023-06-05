@@ -12,9 +12,7 @@
 
 >使用脱机临时许可证 ~~(暂时方案)~~
 
-
 使用ntp在线授时校验脱机许可证有效性
-
 
 # v1.2
 
@@ -30,7 +28,24 @@
 
 完善了[id.py](id.py)的自动填写，现在授权可以完全用软件控制
 
+# v1.4
 
+将各个tab拆分为单个组件
+
+采用[Fluent Design](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)设计
+
+支持切换python，支持自动检测python
+
+*当前扫描路径与深度*
+```
+'C:\\', 2
+'C:\Program Files', 3
+'C:\Program Files (x86)' 3
+'D:\\', 3
+'E:\\', 3
+```
+
+添加了关于页面
 
 # ~~v2.0 (todo)~~  **分支版本**
 
