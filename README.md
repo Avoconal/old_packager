@@ -1,3 +1,6 @@
+# 软件介绍
+
+这是一款基于PySide6的一款打包工具，采用了[Nuitka](https://github.com/Nuitka/Nuitka)作为核心
 # v1.0
 
 >使用[联机许可证]
@@ -36,13 +39,13 @@
 
 支持切换python，支持自动检测python
 
-*当前扫描路径与深度*
+- *当前扫描路径与深度*
 ```
 'C:\\', 2
 'C:\Program Files', 3
 'C:\Program Files (x86)' 3
-'D:\\', 3
-'E:\\', 3
+'D:\\', 4
+'E:\\', 4
 ```
 
 添加了关于页面
