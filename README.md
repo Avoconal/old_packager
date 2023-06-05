@@ -1,6 +1,16 @@
-# 软件介绍
+![Avoconal](https://github.com/abcdesteve/packager/assets/72078508/6de5d452-b74f-49d5-8ec3-53d1455e6e03)
 
+# 软件介绍
 这是一款基于PySide6的一款打包工具，采用了[Nuitka](https://github.com/Nuitka/Nuitka)作为核心
+
+请注意！！！**授权部分尚未开源**
+请不要提交有关issue
+
+- ![image](https://github.com/abcdesteve/packager/assets/72078508/6f82957c-8b4b-4290-8ce0-c01d1acc7170)
+- ![image](https://github.com/abcdesteve/packager/assets/72078508/07e186a1-6971-4765-b51d-5678f8ea44ec)
+- ![image](https://github.com/abcdesteve/packager/assets/72078508/de2b7ef3-4ca1-4ba3-b5a1-e823e3d02a26)
+- ![image](https://github.com/abcdesteve/packager/assets/72078508/27261d42-02af-4b67-96f8-0a5d4c699a6e)
+
 # v1.0
 
 >使用[联机许可证]
